@@ -1,0 +1,50 @@
+{
+  "generado_utc": "2026-11-14T17:02:12Z",
+  "python": "3.15.2",
+  "fuentes": [
+    {
+      "fuente": "GOES",
+      "estado": "OK",
+      "url": "https://services.swpc.noaa.gov/json/goes/primary/integral-protons-1-day.json",
+      "consultado_utc": "2026-11-14T17:02:11Z",
+      "http": 200,
+      "filas": 861,
+      "archivos": {
+        "goes_protones.json": "9225c2a098276cef133ce4561ecc2a1a90997c031ad7774d4170c552279939bd"
+      },
+      "nota": "1435 filas descartadas"
+    },
+    {
+      "fuente": "DONKI",
+      "estado": "SIN_EVENTOS",
+      "url": "https://ccmc.gsfc.nasa.gov/DONKI/WS/get/SEP?startDate=2026-10-15&endDate=2026-11-14",
+      "consultado_utc": "2026-11-14T17:02:11Z",
+      "http": 200,
+      "filas": 0,
+      "archivos": {
+        "donki_sep.json": "33f0203eaa567727f0c6cfc29b2245ede01b1b22a21eef14bac80264c17f8ee4"
+      },
+      "nota": "Dirección usada: https://ccmc.gsfc.nasa.gov/DONKI/WS/get/SEP"
+    },
+    {
+      "fuente": "RadLab",
+      "estado": "SIN_PARAMETROS",
+      "url": "https://visualization.osdr.nasa.gov/radlab/api/",
+      "consultado_utc": "2026-11-14T17:02:12Z",
+      "http": null,
+      "filas": 0,
+      "archivos": {},
+      "nota": "Crear radlab_params.json con los parámetros de la guía de la Data API"
+    },
+    {
+      "fuente": "EDA",
+      "estado": "SIN_ARCHIVOS",
+      "url": "https://visualization.osdr.nasa.gov/eda",
+      "consultado_utc": "2026-11-14T17:02:12Z",
+      "http": null,
+      "filas": 0,
+      "archivos": {},
+      "nota": "Descargar tablas desde EDA a eda_manual/"
+    }
+  ]
+}

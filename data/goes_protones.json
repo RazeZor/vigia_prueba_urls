@@ -1,0 +1,6033 @@
+{
+  "fuente": "https://services.swpc.noaa.gov/json/goes/primary/integral-protons-1-day.json",
+  "consultado_utc": "2026-11-14T17:02:11Z",
+  "datos": [
+    {
+      "t_real": "2026-11-13T17:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22849616408348083,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19242964684963226,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.1942543387413025,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23521600663661957,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22441507875919342,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22636930644512177,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20902609825134277,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18659178912639618,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.188440203666687,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.260036826133728,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2004319727420807,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20227956771850586,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21511803567409515,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20299029350280762,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20477932691574097,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.26677337288856506,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21376949548721313,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21559402346611023,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20709015429019928,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19643087685108185,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19824272394180298,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.25803622603416443,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21284571290016174,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21465595066547394,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2261156141757965,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20043177902698517,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20225632190704346,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2472384124994278,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23377656936645508,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23755688965320587,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2686295211315155,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19482526183128357,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T17:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.1968144178390503,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.34526950120925903,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20576836168766022,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20761527121067047,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2423127293586731,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21288453042507172,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21487373113632202,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20442308485507965,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19376443326473236,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.195576012134552,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23665930330753326,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21189869940280914,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22215543687343597,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2571207582950592,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20512038469314575,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20836234092712402,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2327837347984314,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21177509427070618,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21358652412891388,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23682290315628052,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2015472650527954,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20430904626846313,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2774941921234131,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22650833427906036,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22846168279647827,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24437975883483887,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20310325920581818,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20495028793811798,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2672962546348572,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18709640204906464,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.18890759348869324,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.3402845859527588,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22044159471988678,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2222883105278015,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24664172530174255,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20659469068050385,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T18:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21062518656253815,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24498629570007324,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18442881107330322,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.18627558648586273,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2601463794708252,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21463081240653992,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21644242107868195,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22864679992198944,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18709757924079895,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.1889217346906662,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.26211875677108765,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21248136460781097,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21524913609027863,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21109451353549957,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20043447613716125,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2022455334663391,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.26143619418144226,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20581115782260895,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20857958495616913,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22186590731143951,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20967808365821838,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21146923303604126,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2710380256175995,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20154623687267303,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2033570110797882,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23194801807403564,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21301056444644928,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22153730690479279,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22055374085903168,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2042194902896881,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20603039860725403,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.26324453949928284,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2066403180360794,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2084515541791916,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24405750632286072,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20710211992263794,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T19:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20892594754695892,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.25593990087509155,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23465260863304138,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23646381497383118,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2650083303451538,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21911092102527618,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22092144191265106,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2685849964618683,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23443111777305603,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23624159395694733,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22025826573371887,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20834849774837494,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21015378832817078,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.28889405727386475,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19652435183525085,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.1983688771724701,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.1988716572523117,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18821418285369873,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.1900232434272766,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20605409145355225,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18957874178886414,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19153109192848206,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24561473727226257,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22131769359111786,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22316433489322662,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2754558324813843,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2591237723827362,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.260934054851532,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.29509732127189636,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20062373578548431,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2033780813217163,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.1919606775045395,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18130198121070862,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.1831127405166626,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24656344950199127,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2346530258655548,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T20:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23647713661193848,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21340852975845337,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20180805027484894,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20455864071846008,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2626968324184418,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.1942179799079895,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.1960279643535614,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2933638393878937,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22310815751552582,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22495368123054504,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24023431539535522,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2225557118654251,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22956790030002594,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2195129245519638,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20885702967643738,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21066565811634064,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23456396162509918,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2189807891845703,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22570842504501343,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24461457133293152,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23381687700748444,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23576873540878296,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2639440596103668,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22711028158664703,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22893348336219788,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.25018763542175293,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21506470441818237,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21778936684131622,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23933404684066772,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20176801085472107,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20567552745342255,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24662114679813385,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22781172394752502,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2296215295791626,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23503488302230835,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2231062948703766,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T21:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22492952644824982,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.236572727560997,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21777047216892242,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21958020329475403,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23023967444896698,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19642867147922516,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19823817908763885,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22563022375106812,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20176325738430023,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20357275009155273,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.225686714053154,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19376026093959808,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19560503959655762,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23631705343723297,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22551915049552917,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22747047245502472,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.26042523980140686,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2496277242898941,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2515789866447449,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20174747705459595,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19109214842319489,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19290150701999664,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.33223971724510193,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20932520925998688,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2111702561378479,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24528181552886963,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22848086059093475,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2312430888414383,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22952117025852203,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21872393786907196,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22067499160766602,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2312973141670227,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19108949601650238,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19293425977230072,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23108777403831482,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22043249011039734,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T22:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2222415953874588,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24156855046749115,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22969704866409302,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23150427639484406,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24404944479465485,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20792870223522186,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20972298085689545,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2336394190788269,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22176453471183777,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2235865592956543,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2031579464673996,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18975403904914856,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.1915760636329651,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.25124597549438477,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19642314314842224,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.1982676386833191,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20794981718063354,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19593554735183716,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.1977449357509613,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2596142590045929,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2213294506072998,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22317253053188324,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.253894567489624,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2150270640850067,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21883273124694824,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22285224497318268,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20042191445827484,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2022663950920105,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2808806300163269,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2270294725894928,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22885973751544952,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2284356951713562,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21509264409542084,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21691420674324036,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24738304316997528,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23659829795360565,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-13T23:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23854874074459076,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24506808817386627,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22459447383880615,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2265447974205017,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21664366126060486,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19448322057724,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19644607603549957,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.27411624789237976,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2538723051548004,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2556922435760498,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23526747524738312,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2110905647277832,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2129347026348114,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2211850881576538,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2095814198255539,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21233603358268738,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.219175323843956,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20852242410182953,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21032941341400146,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2302611619234085,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21679197251796722,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21875473856925964,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23750066757202148,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22260497510433197,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22637829184532166,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.26069313287734985,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23345042765140533,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23832592368125916,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21625380218029022,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20441992580890656,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20624087750911713,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24732115864753723,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23247027397155762,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23766058683395386,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.1988229900598526,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18701651692390442,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T00:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.18882417678833008,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.229111447930336,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18874491751194,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20418712496757507,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2180713415145874,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20456500351428986,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20781376957893372,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20679575204849243,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18440091609954834,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.18624477088451385,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2215600460767746,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20975163578987122,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21157227456569672,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23267404735088348,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21927888691425323,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22124114632606506,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24351873993873596,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22854967415332794,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23337142169475555,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2284952998161316,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21785645186901093,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21966306865215302,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24236774444580078,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2315746247768402,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23352427780628204,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24166150391101837,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2284214198589325,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23024186491966248,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22488363087177277,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2112097591161728,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21603292226791382,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20589089393615723,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19107718765735626,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19486047327518463,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2268829196691513,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2150842845439911,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T01:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21690455079078674,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2849537432193756,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21826770901679993,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22007395327091217,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23394036293029785,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21761269867420197,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21956217288970947,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2537667453289032,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2297525703907013,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2315959632396698,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21365821361541748,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20174461603164673,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20355233550071716,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.25136807560920715,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23519310355186462,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23699937760829926,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22892169654369354,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21812975406646729,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22007900476455688,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2122487872838974,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19907516241073608,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20089499652385712,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2348533421754837,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22308197617530823,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22490166127681732,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20961850881576538,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19784799218177795,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19966618716716766,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21390679478645325,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19640696048736572,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19822652637958527,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23888806998729706,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.225748211145401,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2275676727294922,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22517476975917816,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20670491456985474,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T02:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20951633155345917,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21137157082557678,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20058119297027588,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20253004133701324,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23506122827529907,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22441254556179047,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2262197732925415,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2334800511598587,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21600688993930817,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21782660484313965,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.25294405221939087,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22569432854652405,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23240052163600922,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2578999102115631,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23918874561786652,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.24099446833133698,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20171640813350677,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19106851518154144,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19287557899951935,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20177677273750305,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18883439898490906,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19065196812152863,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21881203353405,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20707139372825623,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20889030396938324,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24006609618663788,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21986529231071472,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2218257039785385,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21493291854858398,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19815421104431152,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20498143136501312,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24581895768642426,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22707563638687134,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22888252139091492,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21919836103916168,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2030692994594574,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T03:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2048761546611786,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22820547223091125,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20306913554668427,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20679767429828644,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22979411482810974,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2124040424823761,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21422268450260162,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23780234158039093,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22715531289577484,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2289620190858841,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22679272294044495,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2150702327489853,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2168886512517929,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21873603761196136,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20702236890792847,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2088312953710556,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22793880105018616,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20550093054771423,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2074844390153885,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.25354212522506714,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23454363644123077,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2383943796157837,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24368320405483246,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22183391451835632,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2311086356639862,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2124744951725006,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20182852447032928,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2036350518465042,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22037886083126068,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2097332626581192,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21153977513313293,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.257718563079834,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2470732480287552,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.24887971580028534,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21493135392665863,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20306390523910522,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T04:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2048702985048294,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.251631498336792,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2328428477048874,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23651574552059174,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22306901216506958,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20572946965694427,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20754745602607727,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24236856400966644,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23052920401096344,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2324885129928589,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24913981556892395,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22828103601932526,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2302287369966507,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21317893266677856,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19778989255428314,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20315168797969818,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22909939289093018,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21379204094409943,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2192029058933258,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.26717427372932434,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.24350664019584656,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.24534693360328674,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20554119348526,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19372443854808807,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19553053379058838,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2267502248287201,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21510423719882965,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2179090976715088,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.26491814851760864,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.24135592579841614,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.24319791793823242,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24288052320480347,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23106403648853302,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23286999762058258,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22846078872680664,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21239382028579712,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T05:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2141997069120407,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2534177005290985,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.24173305928707123,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2435503751039505,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2162041813135147,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2043921798467636,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20619796216487885,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24275220930576324,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2310643196105957,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2328815758228302,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2310372292995453,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22039540112018585,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22220107913017273,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2336173951625824,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22283481061458588,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2247818261384964,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22019672393798828,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2083916813135147,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21019726991653442,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22796519100666046,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2106942981481552,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2125117927789688,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2284107655286789,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20972442626953125,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2115299105644226,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24942626059055328,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23777344822883606,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.24058762192726135,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.28956228494644165,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20972517132759094,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21156583726406097,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23101593554019928,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22039352357387543,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22219885885715485,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22755125164985657,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21385540068149567,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T06:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21870917081832886,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23901912569999695,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22172729671001434,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22354410588741302,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24252437055110931,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20584775507450104,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20768672227859497,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2322893589735031,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21261514723300934,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21543234586715698,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.19073355197906494,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.1790507733821869,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.18086740374565125,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2716836631298065,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2097233086824417,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2115282565355301,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2303825318813324,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2187030017375946,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22051988542079926,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2145177572965622,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.195052370429039,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19686858355998993,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23766250908374786,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22702856361865997,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22882767021656036,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21516521275043488,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18323823809623718,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.18507865071296692,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2188800871372223,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20826579630374908,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21006375551223755,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.19506753981113434,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18428747355937958,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.18623358011245728,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2445524036884308,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22851251065731049,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T07:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23031587898731232,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2457606941461563,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2339814007282257,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23593859374523163,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.26529639959335327,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2546772360801697,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.25647643208503723,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24069316685199738,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22881761193275452,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2307635247707367,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21070189774036407,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19904941320419312,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20086528360843658,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.19475463032722473,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18309065699577332,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.1859177052974701,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.26395949721336365,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21924415230751038,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2212008684873581,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21926835179328918,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2017156034708023,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20352016389369965,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21776695549488068,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20171546936035156,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2035200148820877,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22324322164058685,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20536604523658752,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20717091858386993,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22516268491744995,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21238365769386292,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21419934928417206,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.25286513566970825,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20679712295532227,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20860132575035095,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21638336777687073,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20038050413131714,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T08:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20218481123447418,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.25500988960266113,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.24438674747943878,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.24619099497795105,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.19089528918266296,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.17370888590812683,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.1755242794752121,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22619618475437164,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20710942149162292,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20891904830932617,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22530218958854675,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2137129306793213,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2155170738697052,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21233366429805756,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.16392265260219574,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.16590140759944916,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21627216041088104,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20304471254348755,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2066619098186493,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20266908407211304,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19104239344596863,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19285744428634644,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2241206020116806,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20971187949180603,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21335053443908691,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.240434929728508,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20683035254478455,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20877543091773987,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2934844493865967,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.27636706829071045,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.27817803621292114,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2734198272228241,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2431207299232483,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2449192851781845,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23157626390457153,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21504507958889008,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T09:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21685996651649475,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2304985672235489,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2071756273508072,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2090134620666504,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20255208015441895,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18037347495555878,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.1822127103805542,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21443447470664978,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20184077322483063,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2036539912223816,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2462308704853058,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20216204226016998,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2039748579263687,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22642995417118073,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21375395357608795,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21661990880966187,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21571917831897736,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20304140448570251,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20485587418079376,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24881766736507416,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23508968949317932,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23795585334300995,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21458899974822998,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19484061002731323,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.1966550052165985,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23437148332595825,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20570747554302216,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2075463831424713,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.19597573578357697,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.17998719215393066,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.18178914487361908,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21939295530319214,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2003737986087799,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.202177032828331,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20447197556495667,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19383971393108368,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T10:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19564151763916016,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23844636976718903,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2257426530122757,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22858457267284393,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22276896238327026,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20606499910354614,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21292677521705627,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22167406976222992,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21104122698307037,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2128443419933319,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22635455429553986,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20570561289787292,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20750868320465088,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2121044546365738,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19539569318294525,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20225819945335388,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24868088960647583,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22520993649959564,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2281729280948639,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22213099896907806,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20737428963184357,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2125386744737625,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2176775336265564,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20704536139965057,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20884837210178375,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2472456693649292,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2286687046289444,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23047170042991638,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.19233989715576172,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.181708425283432,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.1835113763809204,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2507260739803314,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23904581367969513,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2408589869737625,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22583350539207458,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20587842166423798,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T11:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20929577946662903,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.18862073123455048,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.17800372838974,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.17980654537677765,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2060164511203766,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.1911785900592804,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19611100852489471,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.205814391374588,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19000297784805298,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.193729966878891,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.27557528018951416,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.1990482658147812,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20085087418556213,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2381705492734909,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20709484815597534,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21007391810417175,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.25684571266174316,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22702179849147797,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22900055348873138,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21610422432422638,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20438435673713684,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20619894564151764,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24530203640460968,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22534094750881195,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23206281661987305,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21341490745544434,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20171749591827393,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20352013409137726,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22353574633598328,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20751135051250458,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20931251347064972,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22873955965042114,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21300089359283447,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21494443714618683,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23009419441223145,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21824657917022705,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T12:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22019006311893463,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2236291617155075,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21067678928375244,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21248988807201385,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.275145947933197,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23018363118171692,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.23692545294761658,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22625142335891724,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2088557630777359,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21066884696483612,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22463499009609222,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20572064816951752,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2124660462141037,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2688145637512207,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.25818774104118347,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.25998857617378235,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.254991739988327,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.24039457738399506,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.24415527284145355,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22035136818885803,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.198049858212471,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19988751411437988,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20045530796051025,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.1887626349925995,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19162601232528687,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2186886966228485,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2080743908882141,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20987685024738312,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23484142124652863,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21616464853286743,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2179667204618454,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22606311738491058,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19474096596240997,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19657838344573975,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2361147701740265,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22306348383426666,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T13:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22487841546535492,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2902528941631317,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23910926282405853,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2420019954442978,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.1978120058774948,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.17550863325595856,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.17734456062316895,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23280970752239227,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22204183042049408,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22398465871810913,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23893378674983978,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.22706100344657898,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22886280715465546,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21502310037612915,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20439597964286804,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20619869232177734,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21914231777191162,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20853105187416077,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21033135056495667,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20095279812812805,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18349239230155945,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.1853051483631134,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.19781526923179626,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18719089031219482,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.1889910101890564,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21751278638839722,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20572896301746368,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2075439989566803,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22963829338550568,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21773192286491394,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21953444182872772,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22151491045951843,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2097247838973999,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21153870224952698,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22482141852378845,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2141982913017273,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T14:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21599821746349335,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2318393588066101,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21211758255958557,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2139187753200531,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2297411859035492,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21105922758579254,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21286043524742126,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.214084655046463,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.195065438747406,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19888423383235931,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24187050759792328,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2203950136899948,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22220870852470398,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23522216081619263,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21527867019176483,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21722061932086945,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.26039087772369385,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21639418601989746,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21819517016410828,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2779320776462555,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.25773683190345764,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.25955063104629517,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23816853761672974,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2083919495344162,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2102280706167221,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2072480022907257,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19543521106243134,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19724898040294647,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2434443235397339,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.1883881688117981,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19018903374671936,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2363162487745285,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21372711658477783,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21552804112434387,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24377088248729706,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2230638861656189,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T15:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.22692106664180756,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:00:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21961036324501038,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:00:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20625373721122742,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:00:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20820824801921844,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:05:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2564959228038788,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:05:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.23773431777954102,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:05:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.24450427293777466,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:10:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21978019177913666,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:10:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.19743016362190247,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:10:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.19926685094833374,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:15:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.28225839138031006,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:15:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21322904527187347,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:15:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2151830643415451,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:20:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.20053046941757202,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:20:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.18438658118247986,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:20:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.18618738651275635,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:25:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2590333819389343,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:25:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.24706655740737915,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:25:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.24886731803417206,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:30:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22435365617275238,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:30:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21239182353019714,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:30:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21419253945350647,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:35:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.2521534562110901,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:35:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.2392258644104004,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:35:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2421429455280304,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:40:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.24011848866939545,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:40:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21772627532482147,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:40:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.21952691674232483,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:45:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.22668184340000153,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:45:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21333704888820648,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:45:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2152911126613617,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:50:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.23749873042106628,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:50:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.21877145767211914,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:50:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.2205723226070404,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:55:00Z",
+      "satelite": 18,
+      "energia": ">=10 MeV",
+      "flujo": 0.21330304443836212,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:55:00Z",
+      "satelite": 18,
+      "energia": ">=100 MeV",
+      "flujo": 0.20135638117790222,
+      "unidad": "protons/(cm2 s sr)"
+    },
+    {
+      "t_real": "2026-11-14T16:55:00Z",
+      "satelite": 18,
+      "energia": ">=50 MeV",
+      "flujo": 0.20315541326999664,
+      "unidad": "protons/(cm2 s sr)"
+    }
+  ]
+}
